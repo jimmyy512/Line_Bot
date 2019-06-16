@@ -81,15 +81,6 @@ bot.on('message', function (event) {
                 "previewImageUrl": URL
             })
         }
-        else if(KeyConfig.getQQN[getText])
-        {
-            let URL=TextConfig.qqnImage[Math.floor(Math.random()*TextConfig.qqnImage.length)+0];
-            event.reply({
-                "type": "image",
-                "originalContentUrl": URL,
-                "previewImageUrl": URL
-            })
-        }
         else if(KeyConfig.getjiLiao[getText])
         {
             let URL=TextConfig.jiLiao[Math.floor(Math.random()*TextConfig.jiLiao.length)+0];

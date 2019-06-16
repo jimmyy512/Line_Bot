@@ -25,18 +25,6 @@ const getGirlKey={
     "抽卡":true,
 };
 
-const getQQN={
-    "抽橋妃":true,
-    "抽喬妃":true,
-    "抽僑妃":true,
-    "抽橋非":true,
-    "抽橋飛":true,
-    "抽橋菲":true,
-    "抽喬飛":true,
-    "抽喬菲":true,
-    "抽喬飛":true,
-}
-
 const getBoy={
     "抽男生":true,
     "抽帥哥":true,
@@ -57,7 +45,6 @@ const getjiLiao={
 module.exports={
     chatKeyWord,
     getGirlKey,
-    getQQN,
     getBoy,
     getjiLiao
 }

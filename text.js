@@ -3,7 +3,6 @@ var commandList="\
     指令 顯示所有命令\n\
     抽妹子 可以看正妹喔\n\
     抽帥哥 可以看帥哥喔\n\
-    抽喬妃 抽喬妃\n\
     抽芷若 芷若超正\n\
     #除錯 test\
 ";
@@ -15,20 +14,6 @@ var chat=[
     "要我叫你起床嗎?\n喵~喵~",
     "你可以輸入#指令 來查看命令喔~",
 ];
-
-var qqnImage=[
-    'https://upload.cc/i1/2019/05/21/4uUHOW.jpg',
-    'https://upload.cc/i1/2019/05/21/YkpdQG.jpg',
-    'https://upload.cc/i1/2019/05/21/aTw3v2.jpg',
-    'https://upload.cc/i1/2019/05/21/lEF7JX.jpg',
-    'https://upload.cc/i1/2019/05/21/RMCiSN.jpg',
-    'https://upload.cc/i1/2019/05/21/Y6k8FN.jpg',
-    'https://upload.cc/i1/2019/05/21/thdZD2.jpg',
-    'https://upload.cc/i1/2019/05/21/FaNRtl.jpg',
-    'https://upload.cc/i1/2019/05/21/iQ83me.jpg',
-    'https://upload.cc/i1/2019/05/21/5PWbkJ.jpg'
-
-]
 
 var boysImage=[
     'https://upload.cc/i1/2019/05/21/rOs1i8.jpg',
