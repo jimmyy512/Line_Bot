@@ -4,7 +4,7 @@ const KeyConfig=require("./keyword.js");
 var linebot = require('linebot');
 const line = require('@line/bot-sdk');
 var pttCrawler = require('pttCrawler');
-
+123456
 // bot.broadcast("全域廣播!");
 var girlsURL=[];
 pttCrawler.crawler( 'Beauty', 0, 3, function (result) {
